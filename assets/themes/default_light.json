@@ -1,0 +1,24 @@
+{
+    "appBarTheme": {
+      "backgroundColor": "#ff253abe",
+      "elevation": 5
+    },
+    "brightness":"light",
+    "textTheme":{
+      "headline1":{
+        "color":"#E040FB",
+        "fontSize": 20
+      },
+      "headline6":{
+        "color":"#0C0C0C",
+        "fontSize": 18
+      },
+      "subtitle1":{
+        "color":"#0C0C0C",
+        "fontSize": 14
+      }
+     
+    },
+    "fontFamily": "SpaceMono"
+   
+  }
